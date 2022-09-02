@@ -112,6 +112,3 @@ CV %<>% print_section('industry_position',glue_template = "include_summary")
 ```{r}
 CV %<>% print_links()
 ```
-
-References Available upon Request {data-icon=id-card}
---------------------------------------------------------------------------------
